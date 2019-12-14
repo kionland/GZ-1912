@@ -1,0 +1,2279 @@
+ [
+        {
+            "goods": [
+                {
+                    "dt": "当季热卖",
+                    "dd": [
+                        {
+                            "text": "当季上新",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "棉服",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "毛衣",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "风衣",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "针织开衫",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "西装",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "内搭",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "长款T恤",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "流行新品",
+                    "dd": [
+                        {
+                            "text": "牛仔外套",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "针织开衫",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "宽松毛衣",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "棒球服",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "休闲西装",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "潮流时尚",
+                    "dd": [
+                        {
+                            "text": "情侣装",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "卫衣搭配",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "喇叭袖",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "刺绣",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "经典格纹",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "百搭圆领",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "荷叶边",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "绑带衬衫",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "性感V领",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "条纹控",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "白衬衫",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "显瘦衬衣",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "衬衫搭配",
+                            "color": "color:#999"
+                        }
+                    ]
+                }
+            ],
+            "imglist": [
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/171026_2181k2h43deie7gkk04j529103412_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "韩版短款面包服棉衣女冬季新款大码保暖羽绒棉服加厚显瘦棉袄外套"
+                },
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/191022_6kg94l2857ck8gjba73i2544i5dl8_3332x4999.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "2019新款韩版宽松秋冬百搭加厚短款坎肩学生羽绒棉马甲外套女"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/191121_19b71jgf2j0g488ei4fgl4c8fi9aj_3999x5999.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "冬季新款羊羔毛拼接棉服女韩版系带收腰小个子加厚棉衣外套女"
+                },
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/191128_7bgk4jgd7cljh2lck9ad8afjibfde_4216x6333.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "小个子棉衣女2019秋冬季新款韩版加绒加厚派克服休闲工装外套"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/191031_606lhg3k26kl4802g17j086dg8icg_4999x7489.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "冬装2019年新款加厚棉服女韩版宽松复古时尚拼接棉衣"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/190924_5f2i24a2f8b9jhd6c70cfbib540ej_3332x4999.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "秋冬新款加绒加厚超火假两件卫衣女ins潮慵懒风外套百搭上衣潮"
+                }
+            ]
+        },
+        {
+            "goods": [
+                {
+                    "dt": "当季热卖",
+                    "dd": [
+                        {
+                            "text": "精致连衣裙",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "美裙套装",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "半身裙",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "雪纺裙",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "开叉牛仔裙",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "蕾丝裙",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "高腰裙",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "包臀裙",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "格纹裙",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "鱼尾裙",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "印花裙",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "伞裙",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "卫衣裙",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "针织裙",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "流行精选",
+                    "dd": [
+                        {
+                            "text": "包臀裙",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "衬衫裙",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "百褶裙",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "收腰裙",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "高腰裙",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "经典必备",
+                    "dd": [
+                        {
+                            "text": "鱼尾裙",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "背带裙",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "半身长裙",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "小黑裙",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "A字裙",
+                            "color": "color:#999"
+                        }
+                    ]
+                }
+            ],
+            "imglist": [
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/171215_34j96kafe55f5j4e94eb56hjdjbci_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "送裤袜~高腰针织半身裙女秋冬中长款显瘦包臀裙开叉一步裙毛线裙"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/190928_801b87akhdhd15gefag581gck74f0_3332x4999.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "秋冬新款时尚连衣裙女中长款法式复古针织毛衣裙过膝气质收腰长裙"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/190909_295453c885lahg87hc5g830b6g630_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "小莫甘娜秋季韩版新款时尚女装大码百搭显瘦长袖蕾丝过膝连衣裙"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/191027_5ad035cgigefeki0f2f1hjf82gfcb_3332x4999.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "秋冬季新款网红毛衣裙女套头中长款收腰显瘦长袖打底针织衫连衣裙"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/191122_7ee256389374j9hc7aiacf1bd77a9_2000x3000.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "秋冬新款加厚针织连衣裙女学生韩版宽松学院风鱼尾裙毛衣女"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/191112_17268ggg6lbijfbd8dki8bd94edgl_4666x6999.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "秋冬新款网纱拼接连衣裙加绒冬季A字裙女学生韩版中长款打底裙子"
+                }
+            ]
+        },
+        {
+            "goods": [
+                {
+                    "dt": "当季热卖",
+                    "dd": [
+                        {
+                            "text": "休闲裤 ",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "牛仔裤",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "背带裤 ",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "阔腿裤",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "九分裤 ",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "小脚裤",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "打底裤",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "短裤",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "流行精选",
+                    "dd": [
+                        {
+                            "text": "直筒裤",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "破洞牛仔裤",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "磨边牛仔裤",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "休闲裤",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "连体裤",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "喇叭裤",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "宽松牛仔裤",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "短裤",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "经典必备",
+                    "dd": [
+                        {
+                            "text": "阔腿裤",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "运动裤",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "高腰裤",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "条纹裤",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "连体裤",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "雪纺裤",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "裙裤",
+                            "color": "color:#999"
+                        }
+                    ]
+                }
+            ],
+            "imglist": [
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/191125_63gkeahei7h9kch76ibd5k07bdj56_3332x4999.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "毛呢短裤女2019秋冬季新款韩版学生高腰显瘦加厚阔腿靴裤女潮"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/171127_50ekjjbf3jebajjdc7f8k6g70a5j4_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "秋冬季黑色宽松高腰加绒皮裤女休闲裤九分加厚哈伦裤子女新款"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/55cf19/191110_09akb221k97c6e72a5dfiie3fg4f0_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "秋冬肉色加绒加厚高腰收腹保暖压力裤袜光腿显瘦神器打底一体裤女"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/180920_1c526h4bh41g55e261b5fahkdjk0j_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "矮个子阔腿八分牛仔裤女春秋新款宽松韩版bf风百搭学生高腰九分显瘦黑色直筒裤"
+                }
+            ]
+        }
+        ,
+        {
+            "goods": [
+                {
+                    "dt": "人气热销",
+                    "dd": [
+                        {
+                            "text": "帆布鞋",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "单鞋",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "运动鞋",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "休闲鞋",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "小白鞋",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "拖鞋",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "圆头鞋",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "高跟鞋",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "一脚蹬",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "粗跟鞋",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "平底鞋",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "穆勒鞋",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "厚底鞋",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "跑步鞋",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "老爹鞋",
+                            "color": "color:#FF4466"
+                        }
+                    ]
+                },
+                {
+                    "dt": "热门推荐",
+                    "dd": [
+                        {
+                            "text": "当季热卖",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "一脚蹬",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "甜美高跟",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "厚底运动",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "玛丽珍鞋",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "绑带鞋",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "浅口鞋",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "尖头鞋",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "乐福鞋",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "奶奶鞋",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "方头鞋",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "猫跟鞋",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "珍珠鞋",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "方扣单鞋",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "内增高",
+                            "color": "color:#FF4466"
+                        }
+                    ]
+                },
+                {
+                    "dt": "经典直击",
+                    "dd": [
+                        {
+                            "text": "明星同款",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "名媛淑女",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "森系清新",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "韩版运动",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "学院休闲",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "舒适平底",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "学生党",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "复古擦色",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "情侣款",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "系带款",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "原宿风",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "欧美范",
+                            "color": "color:#999"
+                        }
+                    ]
+                }
+            ],
+            "imglist": [
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/180923_67ehaa603faabig51a0j9jjc1h862_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "欧洲站前拉链机车靴女潮鞋2019秋冬新款短靴百搭厚底女靴子"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/181106_3lijl16746d4l1lj5k536a1jd4bhh_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "复古文艺流苏靴女士优雅粗跟高跟短靴女冬季加绒百搭通勤女鞋子潮"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/55cf19/191108_1cc9iglgeklb0l057k5k89e6ie435_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "毛毛鞋女2019冬季新款时尚仙女风羊羔毛加绒系带平底休闲单鞋"
+                },
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/181116_0fel02a8a9f1dgf5l52dj5lei21e5_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "2019冬季新款网红百搭毛毛鞋加绒加厚棉鞋一脚蹬懒人鞋女鞋子"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/190915_0d15h1940ig7h6lgh7a9219gg0ib7_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "骑士靴女长筒靴2019秋冬新款平底皮靴粗跟及膝长靴不过膝靴子"
+                },
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/190911_1f1k19c5a87h5j31b2i7k7agh5683_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "guidi短靴女冬加绒英伦风新款显瘦百搭时尚前拉链平底靴子潮"
+                }
+            ]
+        }
+        ,
+        {
+            "goods": [
+                {
+                    "dt": "热门",
+                    "dd": [
+                        {
+                            "text": "新品",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "双肩包",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "斜挎包",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "手提包",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "单肩包",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "百搭大包",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "迷你小包",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "旅行箱包",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "女士钱包",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "男士钱包",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "香风链条",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "手拿包",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "款式",
+                    "dd": [
+                        {
+                            "text": "双肩包",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "斜挎包",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "单肩包",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "手提包",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "钱包",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "旅行箱",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "手拿包",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "帆布包",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "mini小包",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "流行",
+                    "dd": [
+                        {
+                            "text": "链条包",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "贝壳包",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "风琴包",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "水桶包",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "方形包",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "复古包",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "卡通包",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "铆钉包",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "邮差包",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "子母包",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "印花包",
+                            "color": "color:#999"
+                        }
+                    ]
+                }
+            ],
+            "imglist": [
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/171214_3jb49k0i7hef9lc9g8f86lal925j9_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "包包女2019新款小包韩版百搭单肩包时尚斜挎包ins同款水桶包手提包"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/171216_7l3191f8i4jg0eh179ll24ahgkjlg_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "【桃夭】韩版复古水桶包女2019新款手提包宽肩带单肩斜挎小包"
+                },
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/190914_73162hdfj2e6gajld1e44g6h5dalh_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "2019潮流时尚双肩背包女韩版百搭学生帆布背包高中书包大容量"
+                },
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/191022_4e4hj62d789k5767431b0eej64bja_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "ins超火大包包女2019质感网红简约软皮单肩包休闲斜挎包潮"
+                },
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/180603_6a929lgg7ci98i92bac40ec85che7_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "夏季包包女新款潮时尚女包手提包女百搭简约女士单肩斜挎包"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/180625_5dk05j3lced4la144ce087dh99da1_1000x1500.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "大容量行李箱32寸超大拉杆箱特大密码箱男旅行箱女皮箱万向轮"
+                }
+            ]
+        }
+        ,
+        {
+            "goods": [
+                {
+                    "dt": "当季热卖",
+                    "dd": [
+                        {
+                            "text": "in季上新",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "卫衣",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "休闲裤",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "休闲鞋",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "衬衫",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "牛仔裤",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "时尚套装",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "POLO衫",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "情侣装",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "男袜",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "贴身内裤",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "拖鞋",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "人气单品",
+                    "dd": [
+                        {
+                            "text": "透气棉麻",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "厚底增高",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "潮款卫衣",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "休闲西装",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "运动鞋",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "破洞牛仔裤",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "帆布鞋",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "西装裤",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "潮流元素",
+                    "dd": [
+                        {
+                            "text": "单宁风",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "约会装",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "基本款",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "中国风",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "品质购",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "条纹装",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "印花刺绣",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "侧边织带",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "一脚蹬",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "束脚裤",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "破洞风",
+                            "color": "color:#999"
+                        }
+                    ]
+                }
+            ],
+            "imglist": [
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/171217_49j720ei530i6e27hi4d03b9ig310_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "冬装新男士韩版手塞棉加厚棉服刺绣短款外套连帽保暖棉衣男棉袄"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/171218_21if57j3ll8hahab3ffgj0gjfda07_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "冬季新款加厚保暖羊羔毛外套男冬棉衣男ins情侣韩版外套棉袄男"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/170917_4i8j5h2f63g0klj95f3la6aka1b4i_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "【加绒加厚】2019秋冬新款灯芯绒小脚休闲裤宽松束脚裤哈伦裤"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/191025_4ghage69j692kkkck3i89c9gfc964_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "加绒加厚男士毛衣冬季2019新款宽松线衣保暖针织打底衫男装潮"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/181010_52k0aba7j7874h0a7ahh24gdl0aad_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "毛呢外套男冬季新款宽松韩版潮流外套男bf原宿风中长款毛呢大衣"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/191124_7173gk7jfd1c5jkk73fhlkb5e0e1j_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "加绒保暖运动鞋男鞋冬季小中帮男士休闲鞋韩版潮流百搭板鞋子男"
+                }
+            ]
+        }
+        ,
+        {
+            "goods": [
+                {
+                    "dt": "人气精选",
+                    "dd": [
+                        {
+                            "text": "运动套装",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "跑鞋",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "小白鞋",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "帆布鞋",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "情侣款",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "厚底运动鞋",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "热辣泳装",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "火爆热卖",
+                    "dd": [
+                        {
+                            "text": "跑步鞋",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "休闲板鞋",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "人气套装",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "运动内衣",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "运动裤",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "明星同款",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "户外服装",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "瑜伽必备",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "体重秤",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "减脂神器",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "小型装备",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "大型装备",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "拉力器",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "品牌专柜",
+                    "dd": [
+                        {
+                            "text": "耐克",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "阿迪达斯",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "New Balance",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "Puma",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "VANS",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "匡威",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "安踏",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "特步",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "乔丹",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "鸿星尔克",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "回力",
+                            "color": "color:#FF4466"
+                        }
+                    ]
+                }
+            ],
+            "imglist": [
+                {
+                    "imgSrc": "https://s11.mogucdn.com/p1/160503/63942393_ifqwiobvmyztkzjuhazdambqgyyde_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "韩国泳衣女小胸钢托聚拢高腰显瘦遮肚平角分体长袖罩衫三件套泳装"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/171215_58c0jh13ch5bj15f6k2aj8l5376cg_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "春夏韩版新款运动套装女健身服上衣瑜伽服跑步运动服健身房套装女"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/180512_07j27dadjg5c9935j5iki45b8e447_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "PUMA彪马男鞋SUEDE女鞋明星款休闲复古板鞋352634"
+                },
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/190704_37gd6ijaaib0111if17gibe1aae56_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "ADIDAS阿迪达斯三叶草女鞋SUPERSTAR板鞋休闲鞋"
+                },
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/55cf19/190807_10ii73aa3g4j22c5b0j585hh8df3e_650x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "抖音超火不会掉的呼啦圈收腹美腰女初学者智能可拆卸男健身瘦身"
+                },
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/190424_0iii8a7387jlg923170l3hlakfce0_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "耐克鞋女复古老爹鞋休闲走秀款运动鞋女跑步鞋AO3108"
+                }
+            ]
+        }
+        ,
+        {
+            "goods": [
+                {
+                    "dt": "当季热卖",
+                    "dd": [
+                        {
+                            "text": "当季热卖",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "手表",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "锁骨链",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "帽子",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "发饰",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "戒指",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "眼镜框",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "耳饰",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "棒球帽",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "手链",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "墨镜",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "耳钉",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "男士手表",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "皮带",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "潮流速递",
+                    "dd": [
+                        {
+                            "text": "几何项链",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "情侣手表",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "银饰",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "发箍",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "吊坠",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "组合戒指",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "手镯",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "颈链",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "渔夫帽",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "脚链",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "男士墨镜",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "特色饰品",
+                    "dd": [
+                        {
+                            "text": "轻奢珠宝",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "腰带",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "胸针",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "假领子",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "新娘配饰",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "假发",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "钥匙扣",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "纹身贴",
+                            "color": "color:#999"
+                        }
+                    ]
+                }
+            ],
+            "imglist": [
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/170726_53jjl52jdjd0bjl1bjglg60ihi1h9_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "s925纯银魔方耳线韩国百搭气质长款简约个性耳链"
+                },
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/170613_2j5chfc0fa8jig5l288ec538adlgh_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "韩国925银锆石迷你耳钉女气质百搭不对称简约D家字母耳环潮人"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/181007_5g98fdd3d9d6iceh0487lc3jaaa65_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "复古雅痞流氓帽女光身百搭休闲瓜皮帽女古代地主帽可调节水手帽潮"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/171002_257ai3g2aj1e1elgikd57gh42997a_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "新款韩国925纯银耳环长款超闪镶钻星星气质流苏两用耳钉耳坠女"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/190528_5bgaif5egcj443ahl133e8g8975g2_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "网红圆圈吊坠钛钢项链气质防过敏玫瑰金锁骨链脖链短款女小众新款"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/180511_2cfll8a3123hh7d2kfj86kb1g3hb6_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "假发女中分刘海长卷发韩国大波浪圆脸黑色中长发仿真大头皮全头套 假发女假发套女整顶假发套仿真"
+                }
+            ]
+        }
+        ,
+        {
+            "goods": [
+                {
+                    "dt": "必备护肤",
+                    "dd": [
+                        {
+                            "text": "保湿补水",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "美白淡斑",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "洁面",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "人气面膜",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "水乳",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "眼唇护理",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "T区护理",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "精华",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "护肤套装",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "去黑头",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "男士护肤",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "潮流彩妆",
+                    "dd": [
+                        {
+                            "text": "妆前隔离",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "BB霜",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "遮瑕粉底",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "腮红",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "阴影高光",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "定妆散粉",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "口红",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "眼妆",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "眉笔",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "美妆工具",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "彩妆套装",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "香水",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "指甲油",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "个人护理",
+                    "dd": [
+                        {
+                            "text": "洗发护发",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "烫染造型",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "沐浴露",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "身体乳",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "全身呵护",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "手足护理",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "美胸瘦身",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "口腔护理",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "卫生巾",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "脱毛膏",
+                            "color": "color:#999"
+                        }
+                    ]
+                }
+            ],
+            "imglist": [
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/190805_063hcf6c83851e3ag5eig4lagek27_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "买1送2卡姿兰口红哑光持久不掉色不沾杯防水网红款平价显白正品"
+                },
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/190501_1b0284g8hb0i0kcfha79k0380j81d_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "迪奥亚菲口红999正红持久保湿哑光口红正品不掉色女学生福利款"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/190331_87fgkabg1ej0di9bh27caflla6di2_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "网红抖音同款温度渐变指甲油环保安全无毒不可剥持久快干7ml"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/170816_5ji1hlcf1lk82a8gf30e0b9959a69_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "玻璃唇口红学生可爱雾面南瓜色钻石网红口红持久保湿不易脱色"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/180928_617ak252d1720kaf895156i8g7agc_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "NOVO 16色眼影女哑光裸妆韩国初学者衰败城市ins网红厌世妆防水眼影盘 平价学生款"
+                },
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/190712_573bcdfgg4553164092c3f22f2hb5_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "送10色眼影】胶囊口红套盒组抖音同款哑光雾面学生款不掉色女"
+                }
+            ]
+        }
+        ,
+        {
+            "goods": [
+                {
+                    "dt": "家纺布艺",
+                    "dd": [
+                        {
+                            "text": "四件套",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "家居鞋",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "被子",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "被套",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "抱枕",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "毯子",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "电热毯",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "床垫",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "地毯地垫",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "窗帘",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "餐桌布艺",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "家具家饰",
+                    "dd": [
+                        {
+                            "text": "简易衣柜",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "鞋架",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "镜子",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "电脑桌",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "衣帽架",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "花架",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "墙贴",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "摆件",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "仿真花",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "相片墙",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "DIY",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "居家日用",
+                    "dd": [
+                        {
+                            "text": "毛绒玩具",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "热水袋",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "保温杯",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "保暖贴",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "收纳箱",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "衣物护理",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "防护用品",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "脏衣篓",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "毛巾/浴巾",
+                            "color": "color:#999"
+                        }
+                    ]
+                }
+            ],
+            "imglist": [
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/170808_020ckhe0jlb2ifb6i7llf033f33a7_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "【6件套】多功能旅行收纳袋收纳包旅游防水衣物整理收纳袋收纳包"
+                },
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/180416_22hk17ig9fg34737ii64gelhi94i4_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "植护 36卷4层芯卷纸婴儿可用卫生纸批发卫生间芯卷纸原生木浆纸"
+                },
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/191111_8a88d9hk0b9j3kh62heh35ia0faga_3555x5555.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "手动毛球修剪器羊绒毛呢大衣除毛神器衣服打球器抖音同款"
+                },
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/190706_431kebl64l4fkc42617a7b0hhg0g4_640x580.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "垃圾袋一次性批发办公厨房家用黑色加厚手提背心式塑料袋子中大号"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/191019_3idb8kf19jij0ad77203469g5kbfl_640x941.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "心愿清单恋爱100件事小事天个纪念女情侣礼物创意DIY明信卡"
+                },
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/190914_0kga0831l19f90e198505k6bej2i8_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "多功能衣架收纳神器家用晒衣服衣架子挂钩学生宿舍用魔术折叠衣挂"
+                }
+            ]
+        }
+        ,
+        {
+            "goods": [
+                {
+                    "dt": "内衣",
+                    "dd": [
+                        {
+                            "text": "文胸套装",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "调整型内衣",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "文胸",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "内裤",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "无痕内衣",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "运动内衣",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "卡通内裤",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "打底内搭",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "情趣内衣",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "家居睡衣",
+                    "dd": [
+                        {
+                            "text": "睡衣套装",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "家居服",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "睡裙",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "情侣睡衣",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "睡袍",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "甜美家居服",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "性感睡衣",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "长袖睡衣",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "袜子",
+                    "dd": [
+                        {
+                            "text": "堆堆袜",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "短袜",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "瘦腿袜",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "丝袜",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "打底袜",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "中筒袜",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "船袜",
+                            "color": "color:#999"
+                        }
+                    ]
+                }
+            ],
+            "imglist": [
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/180723_78e7k00bb7gdf8h57gcl4lc04bi8c_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "性感前扣无钢圈女士内衣文胸蕾丝刺绣黑色交叉美背深v聚拢胸罩"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/p2/170207/124846427_8058kgb746bkh6b3cagjdhg0gcg80_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "秋季睡衣女韩版性感情趣纯棉露肩中长裙睡裙全棉可爱家居服中裙"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/171215_6g109k01242i00kgj3fdh4ae9jllb_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "秋冬季一体加绒加厚连裤袜踩脚防勾丝外穿显瘦打底裤美腿打底袜子"
+                },
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/190111_54gjl89417hh40lb9lej44lijea1f_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "秋冬加厚加绒打底裤保暖显瘦打底袜连裤袜超弹棉袜抗起球加档一体裤外穿打底袜冬季灰色加厚打底裤"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/191105_4447heh2kgaagfg2fb8l4bejdlj0l_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "长毛绒兔子耳朵睡衣女秋冬珊瑚绒套装长袖连帽可爱加厚甜美家居服"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/181010_65h451ff67j4gk4f217b69ekj8cif_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "新款睡衣女秋冬季甜美卡通珊瑚绒长袖可爱猫圆领加绒加厚保暖套装韩版法兰绒冬季家居服女可外穿"
+                }
+            ]
+        }
+        ,
+        {
+            "goods": [
+                {
+                    "dt": "当季热卖",
+                    "dd": [
+                        {
+                            "text": "孕妇装",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "托腹裤",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "童装",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "孕妇裙",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "运动鞋",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "孕妈护肤",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "毛绒玩具",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "儿童套装",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "凉鞋",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "家居服",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "益智早教",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "萌宝优选",
+                    "dd": [
+                        {
+                            "text": "新生儿",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "1~3岁",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "儿童套装",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "舒适童鞋",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "连体衣",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "运动鞋",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "裤子",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "连衣裙",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "孕妈精选",
+                    "dd": [
+                        {
+                            "text": "妈咪套装",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "托腹裤",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "孕妇美裙",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "护肤孕彩",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "哺乳内衣",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "月子服",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "待产包",
+                            "color": "color:#999"
+                        }
+                    ]
+                }
+            ],
+            "imglist": [
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/55cf19/191112_472bl5i812j6jg3eaaeali6cl53gf_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "女童冬装打底衫半高领套头针织毛衣男女宝宝秋冬加绒中小童上衣"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/191016_5jahide6bdcf3854g0a624f757h21_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "孕妇装冬季宽松大毛领棉服外套加厚棉衣托腹裤袜两件套孕妇套装"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/181024_6khla97afcfd719fa8jk015g1hhal_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "孕妇装冬装新款时尚韩版宽松大码防寒棉服外套女中长款大毛领加厚棉衣外套托腹裤袜两件套孕妇套装"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/190924_8a8bd9g74lh201ci7lhb926b6h951_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "冬装女童加厚灯芯绒套装童装加绒连帽夹克风衣外套中大童加绒裤子"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/190917_2d88h2dkd3jdka2gclbij6afk460k_640x960.png_200x200.v1cAC.40.webp",
+                    "imgText": "孕妇装秋冬装套装毛衣外套秋季新款韩版拼色针织衫加绒孕妇两件套"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/191022_4i2k1dijb3gchil7hf2bb6a92kb01_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "女童冬装棉衣2019新款中长款小女孩儿童棉服外套加绒棉袄洋气"
+                }
+            ]
+        }
+        ,
+        {
+            "goods": [
+                {
+                    "dt": "美体电器",
+                    "dd": [
+                        {
+                            "text": "卷发棒",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "美容仪",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "电吹风",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "毛球修剪器",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "电子秤",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "剃须刀",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "电动牙刷",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "理发器",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "蒸脸器",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "生活电器",
+                    "dd": [
+                        {
+                            "text": "挂烫机",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "电锅",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "加湿器",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "电饭煲",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "煮蛋器",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "面包机",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "电磁炉",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "影音电器",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "USB小电器",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "手机数码",
+                    "dd": [
+                        {
+                            "text": "手机",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "手机壳",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "移动电源",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "耳机",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "手机贴膜",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "智能手环",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "手机支架",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "数据线",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "鼠标",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "小音箱",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "U盘",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "自拍杆",
+                            "color": "color:#999"
+                        }
+                    ]
+                }
+            ],
+            "imglist": [
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/191114_5e3l0i2fc864fh32944ajae5flc0c_640x640.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "电卷发棒直发器两用夹板蓬松家用烫头发拉直板夹内扣女不伤发懒人"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/190415_0hfhl4c3k585k61g6d2ld94ehd01e_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "卷发棒两用小型不伤发空气刘海韩国小夹板学生小功率迷你便携熨板"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/180713_3k83lge2c4f7jh3jdcg995067305j_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "毛球修剪器剃毛机衣服去毛球器充电刮剃毛器脱打吸除毛器去毛"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/190620_4l1b107ld3dfid68i38e6fihk0144_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "便携式充电榨汁机家用小型全自动果蔬多功能榨汁杯炸电动果汁机"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/p1/151023/58267_ie4wkojtgbrtcyjwgqzdambqgqyde_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "吹风机家用大功率电吹风专业发廊理发店学生宿舍冷热风吹风筒"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/191116_62ieka6k9667e7if260kbh0jj386g_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "取暖器家用小太阳发热电热扇鸟笼电暖器烤火炉办公室电暖炉"
+                }
+            ]
+        }
+        ,
+         {
+            "goods": [
+                {
+                    "dt": "茶酒饮料",
+                    "dd": [
+                        {
+                            "text": "花草茶",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "冲饮",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "代餐粉粉",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "咖啡",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "饮料",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "酒类",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "早餐茶饮",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "进口食品",
+                    "dd": [
+                        {
+                            "text": "韩国",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "日本",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "东南亚",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "进口饼干",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "进口糕点",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "进口糖巧",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "进口水饮",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "泰国",
+                            "color": "color:#999"
+                        }
+                    ]
+                },
+                {
+                    "dt": "休闲零食",
+                    "dd": [
+                        {
+                            "text": "蜜饯",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "巧克力",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "膨化食品",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "方便速食",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "零食大礼包",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "糕点",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "糖果",
+                            "color": "color:#999"
+                        },
+                        {
+                            "text": "肉铺肉食",
+                            "color": "color:#FF4466"
+                        },
+                        {
+                            "text": "饼干",
+                            "color": "color:#999"
+                        }
+                    ]
+                }
+            ],
+            "imglist": [
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/181126_64d4hk0ed51c34f279e5h66a141hk_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "【第二盒9.9元】自热火锅米饭465g/盒 自热麻辣烫超辣"
+                },
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/190706_3282g896fcd6lcda788k9k0e4lkjg_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "米多奇烤馍丁馍香小趣烤馒头丁馒头片烤馍片休闲早餐零食清真食品"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/p2/161104/110629169_0elh2b6fb9cc0lha093j618h0221k_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "【百草味-夹心海苔脆40gx2盒】即食坚果芝麻烤紫菜脆片儿童零食"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/180819_2389a0g66iagd96l7k555gkfg21c8_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "150g*2罐共约12-20只 麻辣八爪鱼小章鱼迷你海鲜鲜活小咖现做熟食即食香辣爆头非鸽鸽"
+                },
+                {
+                    "imgSrc": "https://s5.mogucdn.com/mlcdn/c45406/190530_5edfak9fg2ha98kl44184k68bfe74_800x800.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "提拉米苏千层蛋糕450g 千层蛋糕早餐点心零食面包软糯糕点"
+                },
+                {
+                    "imgSrc": "https://s11.mogucdn.com/mlcdn/c45406/190923_4ef8c8lag9ij7ja57kj7i81cg8alf_640x960.jpg_200x200.v1cAC.40.webp",
+                    "imgText": "买2送3-39任选5大刀肉网红辣条零食怀旧小吃大辣片礼包组合"
+                }
+            ]
+        }
+    ]

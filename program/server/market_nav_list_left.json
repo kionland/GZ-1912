@@ -1,0 +1,282 @@
+[
+    {
+        "dt": "上衣",
+        "dd": [
+            {
+                "hot": true,
+                "text": "短外套 ",
+                "color": true
+            },
+            {
+                "hot": false,
+                "text": "时尚套装 ",
+                "color": true
+            },
+            {
+                "hot": false,
+                "text": "卫衣",
+                "color": false
+            }
+        ]
+    },
+    {
+        "dt": "裙子",
+        "dd": [
+            {
+                "hot": true,
+                "text": "连衣裙 ",
+                "color": true
+            },
+            {
+                "hot": false,
+                "text": "半身裙 ",
+                "color": false
+            },
+            {
+                "hot": false,
+                "text": "美裙套装",
+                "color": false
+            }
+        ]
+    },
+    {
+        "dt": "裤子",
+        "dd": [
+            {
+                "hot": true,
+                "text": "牛仔裤 ",
+                "color": true
+            },
+            {
+                "hot": false,
+                "text": "休闲裤 ",
+                "color": false
+            },
+            {
+                "hot": true,
+                "text": "运动裤",
+                "color": true
+            }
+        ]
+    },
+    {
+        "dt": "女鞋",
+        "dd": [
+            {
+                "hot": true,
+                "text": "靴子 ",
+                "color": false
+            },
+            {
+                "hot": false,
+                "text": "单鞋 ",
+                "color": true
+            },
+            {
+                "hot": false,
+                "text": "休闲运动",
+                "color": false
+            }
+        ]
+    },
+    {
+        "dt": "包包",
+        "dd": [
+            {
+                "hot": true,
+                "text": "双肩包 ",
+                "color": false
+            },
+            {
+                "hot": false,
+                "text": "斜挎包 ",
+                "color": true
+            },
+            {
+                "hot": false,
+                "text": "迷你小包",
+                "color": false
+            }
+        ]
+    },
+    {
+        "dt": "男友",
+        "dd": [
+            {
+                "hot": false,
+                "text": "卫衣 ",
+                "color": true
+            },
+            {
+                "hot": false,
+                "text": "休闲裤 ",
+                "color": false
+            },
+            {
+                "hot": true,
+                "text": "休闲鞋",
+                "color": false
+            }
+        ]
+    },
+    {
+        "dt": "运动",
+        "dd": [
+            {
+                "hot": false,
+                "text": "运动套装 ",
+                "color": true
+            },
+            {
+                "hot": false,
+                "text": "运动鞋 ",
+                "color": false
+            },
+            {
+                "hot": true,
+                "text": "小白鞋",
+                "color": false
+            }
+        ]
+    },
+    {
+        "dt": "配饰",
+        "dd": [
+            {
+                "hot": false,
+                "text": "帽子 ",
+                "color": true
+            },
+            {
+                "hot": false,
+                "text": "墨镜 ",
+                "color": false
+            },
+            {
+                "hot": false,
+                "text": "眼镜框",
+                "color": false
+            }
+        ]
+    },
+    {
+        "dt": "美妆",
+        "dd": [
+            {
+                "hot": true,
+                "text": "护肤套装 ",
+                "color": false
+            },
+            {
+                "hot": true,
+                "text": "面膜 ",
+                "color": false
+            },
+            {
+                "hot": false,
+                "text": "护唇膏",
+                "color": true
+            }
+        ]
+    },
+    {
+        "dt": "家居",
+        "dd": [
+            {
+                "hot": false,
+                "text": "家居鞋 ",
+                "color": false
+            },
+            {
+                "hot": false,
+                "text": "四件套 ",
+                "color": true
+            },
+            {
+                "hot": false,
+                "text": "小家具",
+                "color": false
+            }
+        ]
+    },
+    {
+        "dt": "内衣",
+        "dd": [
+            {
+                "hot": false,
+                "text": "少女内衣 ",
+                "color": false
+            },
+            {
+                "hot": false,
+                "text": "睡衣 ",
+                "color": false
+            },
+            {
+                "hot": false,
+                "text": "内裤",
+                "color": false
+            }
+        ]
+    },
+    {
+        "dt": "母婴",
+        "dd": [
+            {
+                "hot": true,
+                "text": "萌宝童装 ",
+                "color": false
+            },
+            {
+                "hot": false,
+                "text": "孕妇装 ",
+                "color": false
+            },
+            {
+                "hot": false,
+                "text": "萌宝童鞋",
+                "color": true
+            }
+        ]
+    },
+    {
+        "dt": "电器",
+        "dd": [
+            {
+                "hot": false,
+                "text": "手机壳 ",
+                "color": true
+            },
+            {
+                "hot": true,
+                "text": "卷发棒 ",
+                "color": false
+            },
+            {
+                "hot": false,
+                "text": "移动电源",
+                "color": false
+            }
+        ]
+    },
+    {
+        "dt": "食品",
+        "dd": [
+            {
+                "hot": true,
+                "text": "零食组合 ",
+                "color": false
+            },
+            {
+                "hot": false,
+                "text": "礼包 ",
+                "color": false
+            },
+            {
+                "hot": false,
+                "text": "进口美食",
+                "color": true
+            }
+        ]
+    }
+]

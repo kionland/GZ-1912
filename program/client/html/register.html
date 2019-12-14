@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>注册登录页</title>
+    <link rel="stylesheet" href="../css/register.css">
+    <script src="../js/jquery-3.4.1.js"></script>
+    <script src="../js/captcha.js"></script>
+    <script src="../js/register.js"></script>
+</head>
+
+<body class="media_screen_1200">
+    <script src="https://s10.mogucdn.com/__/mfp/meili-base-logger/assets/1.3.17/logger.min.js"></script>
+    <div id="body_wrap">
+        <div class="login_wrap">
+            <div class="logo_wrap">
+                <div class="logo"> <a title="蘑菇街" href="http://127.0.0.1/code/program/client/html/index.html"
+                        class="mainlogo logo_mgj_img"><img
+                            src="https://s10.mogucdn.com/mlcdn/c45406/190102_088f4i166l4gkl08k297h5kk8690i_260x200.png"></a>
+                    <!-- 新增登录页绑定手机提示 --> <span
+                        class="login-logo-tip">依《网络安全法》相关要求，即日起蘑菇街会员登陆需绑定手机。为保障您的账户安全及正常使用，如您尚未绑定，请尽快完成绑定，感谢您的理解和支持!</span>
+                </div>
+            </div>
+            <div class="content">
+                <div class="lg_left">
+                    <div class="login_mod_tab">
+                        <div class="mod">
+                            <a class="lo_mod tab_on" lo-mod="normal" href="javascript:;" title="普通登入">普通登录</a>
+                        </div>
+                        <div class="mod">
+                            <a class="eb_mod" lo-mod="ebmod" href="javascript:;" title="账号注册">账号注册</a>
+                        </div>
+                    </div>
+                    <div class="formbox cur" >
+                        <p class="error_tip error1">请输入正确的用户名/邮箱/手机号</p>
+                        <p class="error_tip error2">请输入正确的密码</p>
+                        <p class="error_tip error3">请输入正确的图形验证码</p>
+                        <div class="lg_form">
+                            <form method="post">
+                                <!-- 正常登录 start -->
+                             
+                                <div class="mod_box lo_mod_box" data-isshow="0">
+                                    <div class="ui-sign-item ui-name-item lg_item lg_name"> <input type="text"
+                                            maxlength="32" class="ui-input pwd_text" data-type="username" name="uname"
+                                            placeholder="用户名/邮箱/手机号" style="border-color:#CFCFCF;" id="usernameL"> </div>
+                                    <div class="ui-sign-item ui-sign-common-item lg_item lg_pass"> <input
+                                            type="password" maxlength="32" class="ui-input pwd_text"
+                                            data-type="loginpassword" name="pass" 
+                                            placeholder="密码" style="border-color:#CFCFCF;" id="passwordL"> </div>
+                                <div class="ui-sign-item ui-sign-common-item lg_item lg_pass"> <input type="text" maxlength="6" placeholder="请输入验证码"
+                                        id="imageCodeL" style="border-color:#CFCFCF;"><canvas width="140" height="40" id="captchaL"></canvas> </div>
+                                </div> <!-- 正常登录 end -->
+
+                                <div class="lg_login clearfix"> <input type="button" value="登录" class="sub1"> </div>
+                                <div class="ot_login">
+                                    <div class="ot_btn clearfix"> <a class="ui-ot-btn mr-42 ot_btn_qq"
+                                            href="javascript:;" data-type="qq"><img
+                                                src="https://s10.mogucdn.com/p2/170104/upload_5763lkilh8f7abid345gbhh167d79_19x19.png">QQ登录</a>
+                                        <a class="ui-ot-btn mr-42" href="javascript:;" data-type="weixin"><img
+                                                src="https://s10.mogucdn.com/p2/170104/upload_8d4dd486c18961b55lf0hbe5ebf7l_18x19.png">微信登录</a>
+                                    </div>
+                                </div>
+                                <div class="lg_reg"> <a class="findpwd" href="/user/findpwdfirst">忘记密码</a> </div>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="formbox">
+                        <p class="error_tip error4">请输入正确格式的用户名/邮箱/手机号</p>
+                        <p class="error_tip error5">请输入正确格式的密码</p>
+                        <p class="error_tip error6">请输入正确格式的图形验证码</p>
+                        <div class="lg_form">
+                            <form method="post">
+                                <!-- 正常登录 start -->
+                                <div class="mod_box lo_mod_box" data-isshow="0">
+                                    <div class="ui-sign-item ui-name-item lg_item lg_name"> <input type="text"
+                                            maxlength="32" class="ui-input pwd_text" data-type="username" name="uname"
+                                            placeholder="请输入注册用户名/邮箱/手机/6-12位数字/字母/汉字" style="border-color:#CFCFCF;" id="usernameR"> </div>
+                                    <div class="ui-sign-item ui-sign-common-item lg_item lg_pass"> <input
+                                            type="password" maxlength="32" class="ui-input pwd_text"
+                                            data-type="loginpassword" name="pass"  placeholder="请输入注册密码/ 必须字母开头 /6-12位数字/字母"
+                                            style="border-color:#CFCFCF;" id="passwordR"> </div>
+                                            <div class="ui-sign-item ui-sign-common-item lg_item lg_pass"> <input type="text"
+                                                                                        maxlength="6" placeholder="请输入验证码" id="imageCodeR" style="border-color:#CFCFCF;"><canvas width="140" height="40" id="captchaR"></canvas> </div>
+                                </div> <!-- 正常登录 end -->
+
+                                <div class="lg_login clearfix"> <input type="button" value="注册" class="sub2"> </div>
+                                <div class="ot_login">
+                                    <div class="ot_btn clearfix"> <a class="ui-ot-btn mr-42 ot_btn_qq"
+                                            href="javascript:;" data-type="qq"><img
+                                                src="https://s10.mogucdn.com/p2/170104/upload_5763lkilh8f7abid345gbhh167d79_19x19.png">QQ登录</a>
+                                        <a class="ui-ot-btn mr-42" href="javascript:;" data-type="weixin"><img
+                                                src="https://s10.mogucdn.com/p2/170104/upload_8d4dd486c18961b55lf0hbe5ebf7l_18x19.png">微信登录</a>
+                                    </div>
+                                </div>
+                                <div class="lg_reg"> <a class="findpwd" href="/user/findpwdfirst">忘记密码</a> </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mgj_footer_mgjinfo">
+                <ul class="mgj_footer_mgjinfo_list clearfix">
+                    <li class="mgj_footer_mgjinfo_item"><a rel="nofollow" target="_blank"
+                            href="http://www.mogu-inc.com/home/home.html?acm=3.mce.1_10_19kz6.32163.0.gUBy9rKkBOExy.pos_0-m_223517-sd_119">关于我们</a>
+                    </li>
+                    <li class="mgj_footer_mgjinfo_item"><a rel="nofollow" target="_blank"
+                            href="https://job.mogu.com?acm=3.mce.1_10_19kz8.32163.0.gUBy9rKkBOExz.pos_1-m_223518-sd_119">招聘信息</a>
+                    </li>
+                    <li class="mgj_footer_mgjinfo_item"><a rel="nofollow" target="_blank"
+                            href="https://www.mogu.com/about?acm=3.mce.1_10_19kza.32163.0.gUBy9rKkBOExA.pos_2-m_223519-sd_119">联系我们</a>
+                    </li>
+                    <li class="mgj_footer_mgjinfo_item"><a rel="nofollow" target="_blank"
+                            href="https://cycle.mogu.com/pc/joinmarket?acm=3.mce.1_10_19kzg.32163.0.gUBy9rKkBOExB.pos_3-m_223522-sd_119">商家入驻</a>
+                    </li>
+                    <li class="mgj_footer_mgjinfo_item"><a rel="nofollow" target="_blank"
+                            href="http://xd.mogu.com/work/home?acm=3.mce.1_10_19kzi.32163.0.gUBy9rKkBOExC.pos_4-m_223523-sd_119">商家后台</a>
+                    </li>
+                    <li class="mgj_footer_mgjinfo_item"><a rel="nofollow" target="_blank"
+                            href="http://bbs.mogu.com?acm=3.mce.1_10_19kzm.32163.0.gUBy9rKkBOExD.pos_5-m_223525-sd_119">商家社区</a>
+                    </li>
+                    <li class="mgj_footer_mgjinfo_item"><a rel="nofollow" target="_blank"
+                            href="https://cs.mogu.com/rule/index.html?acm=3.mce.1_10_1epzq.32163.0.gUBy9rKkBOExE.pos_6-m_343407-sd_119">规则中心</a>
+                    </li>
+                    <li class="mgj_footer_mgjinfo_item"><a rel="nofollow" target="_blank"
+                            href="https://cs.mogu.com/rule/judgement.html?categoryId=1ng&amp;acm=3.mce.1_10_1krsm.32163.0.gUBy9rKkBOExF.pos_7-m_484543-sd_119">规则众议院</a>
+                    </li>
+                    <li class="mgj_footer_mgjinfo_item"><a rel="nofollow" target="_blank"
+                            href="https://securityreport.mogu.com/index?acm=3.mce.1_10_1fnr8.32163.0.gUBy9rKkBOExG.pos_8-m_365286-sd_119">有害信息举报</a>
+                    </li>
+                    <li class="mgj_footer_mgjinfo_item"><a rel="nofollow" target="_blank"
+                            href="https://cs.mogu.com/rule/mogu.html?categoryId=1iq&amp;ruleId=1536&amp;acm=3.mce.1_10_1jtfw.32163.0.gUBy9rKkBOExH.pos_9-m_462282-sd_119">用户隐私保护</a>
+                    </li>
+                    <li class="mgj_footer_mgjinfo_item mgj_footer_mgjinfo_feedback">
+                        <a rel="nofollow" target="_blank" href="https://cs.mogu.com/help/feedback.html">意见反馈</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="mgj_footer_hostname"><span>©2019 Mogu.com 杭州卷瓜网络有限公司</span></div>
+            <div class="mgj_footer_copyright">
+                <p class="mgj_footer_copyright_container"><span class="mgj_footer_copyright_span">营业执照：</span><a
+                        rel="nofollow" target="_blank" class="mgj_footer_a"
+                        href="https://s10.mogucdn.com/mlcdn/c45406/181119_0a3j5l86651d5ciklai091dd78d41_1239x1753.jpg?acm=3.mce.1_10_19kyq.32170.0.gUBy9rKkBOExJ.pos_0-m_223509-sd_119">913301065526808764</a><b
+                        class="mgj_footer_b"> | </b><span class="mgj_footer_copyright_span"></span><a rel="nofollow"
+                        target="_blank" class="mgj_footer_a"
+                        href="https://s5.mogucdn.com/mlcdn/c45406/191106_618hj14k5i3b0959i0b8d6j0gifa4_1653x2338.jpg?acm=3.mce.1_10_1mzcw.32170.0.gUBy9rKkBOExK.pos_1-m_536100-sd_119">营业性演出许可证</a><b
+                        class="mgj_footer_b"> | </b><span class="mgj_footer_copyright_span"></span><a rel="nofollow"
+                        target="_blank" class="mgj_footer_a"
+                        href="https://s5.mogucdn.com/mlcdn/c45406/191209_1cg4g6i3l7aflgc4f4ih38251a76j_2480x3507.jpg?acm=3.mce.1_10_1naa0.32170.0.gUBy9rKkBOExL.pos_2-m_543176-sd_119">网络文化经营许可证</a><b
+                        class="mgj_footer_b"> | </b><span class="mgj_footer_copyright_span">增值电信业务经营许可证：</span><a
+                        rel="nofollow" target="_blank" class="mgj_footer_a"
+                        href="https://s10.mogucdn.com/mlcdn/c45406/171109_1ll0b37l83lj8e3i35h28a92g31i3_1239x1754.jpg?acm=3.mce.1_10_19kys.32170.0.gUBy9rKkBOExM.pos_3-m_223510-sd_119">浙B2-20110349</a><b
+                        class="mgj_footer_b"> | </b><span class="mgj_footer_copyright_span"></span><a rel="nofollow"
+                        target="_blank" class="mgj_footer_a"
+                        href="https://s16.mogucdn.com/p2/160831/upload_506h1d771b5k20j9148ldjj0kdaab_960x1344.jpg?acm=3.mce.1_10_19l02.32170.0.gUBy9rKkBOExN.pos_4-m_223533-sd_119">安全责任书</a><b
+                        class="mgj_footer_b"> | </b><span class="mgj_footer_copyright_span"></span></p>
+                <div class="mgj_footer_a"><img class="mgj_footer_a_img"
+                        src="https://s3.mogucdn.com/mlcdn/c45406/190515_0gei4681dhlh0cf9ch0g33j97d88l_20x20.png">浙公网安备
+                    33010602010221号</div><b class="mgj_footer_b"> | </b><span
+                    class="mgj_footer_copyright_span"></span><a rel="nofollow" target="_blank" class="mgj_footer_a"
+                    href="https://s11.mogucdn.com/mlcdn/c45406/190531_3ggf3f5alhgkl3cgl1869ce3j72ih.pdf?acm=3.mce.1_10_1i4u6.32170.0.gUBy9rKkBOExP.pos_6-m_423011-sd_119">互联网药品信息服务资格证书编号：（浙)-经营性-2018-0002</a><b
+                    class="mgj_footer_b"> | </b><span class="mgj_footer_copyright_span"></span><a rel="nofollow"
+                    target="_blank" class="mgj_footer_a"
+                    href="http://zjamr.zj.gov.cn/HTML/gggs/201905/793d932f-600e-4ccc-95f9-1ddd47e82dba.html?acm=3.mce.1_10_1i94i.32170.0.gUBy9rKkBOExQ.pos_7-m_425789-sd_119">浙网食A33010003</a><b
+                    class="mgj_footer_b"> | </b><span class="mgj_footer_copyright_span"></span><a rel="nofollow"
+                    target="_blank" class="mgj_footer_a"
+                    href="https://s11.mogucdn.com/mlcdn/c45406/190731_076d34acgb81k103eh6981e7gli43.pdf?acm=3.mce.1_10_1ihmo.32170.0.gUBy9rKkBOExR.pos_8-m_431300-sd_119">出版物网络交易平台服务经营备案证</a><b
+                    class="mgj_footer_b"> | </b><span class="mgj_footer_copyright_span"></span><a rel="nofollow"
+                    target="_blank" class="mgj_footer_a"
+                    href="https://s3.mogucdn.com/mlcdn/c45406/190627_3h4kj8i8g09edf49kgic1e3k487e3.pdf?acm=3.mce.1_10_1ineu.32170.0.gUBy9rKkBOExS.pos_9-m_435047-sd_119">(浙)网械平台备字[2018]第00006号</a><b
+                    class="mgj_footer_b"> | </b>
+                <p></p>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
